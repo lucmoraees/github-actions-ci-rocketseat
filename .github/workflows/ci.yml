@@ -48,5 +48,6 @@ jobs:
       env:
         REGISTRY: ${{ steps.login-ecr.outputs.registry }}
         TAG: ${{ steps.generate_tag.outputs.sha }}
-      run: docker build -t $REGISTRY/rocketseat-ci:$TAG .
-           docker push $REGISTRY/rocketseat-ci:$TAG
+      run: | 
+        docker build -t $REGISTRY/rocketseat-ci:$TAG .
+        docker push $REGISTRY/rocketseat-ci:$TAG
