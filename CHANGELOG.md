@@ -1,3 +1,11 @@
+## [1.0.2](https://github.com/lucmoraees/github-actions-ci-rocketseat/compare/v1.0.1...v1.0.2) (2025-05-10)
+
+
+### Bug Fixes
+
+* add variables and secrets ([c1db3d8](https://github.com/lucmoraees/github-actions-ci-rocketseat/commit/c1db3d8056b8c6d239b8fea704b8903df18db99b))
+* fix access AWS_APP_RUNNER_ROLE ([13f612a](https://github.com/lucmoraees/github-actions-ci-rocketseat/commit/13f612a229c030ea9cb884bda53ad8cb5e38f168))
+
 ## [1.0.1](https://github.com/lucmoraees/github-actions-ci-rocketseat/compare/v1.0.0...v1.0.1) (2025-05-10)
 
 
