@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/lucmoraees/github-actions-ci-rocketseat/compare/v1.0.0...v1.0.1) (2025-05-10)
+
+
+### Bug Fixes
+
+* fix issues and pr  permission ([0497b3e](https://github.com/lucmoraees/github-actions-ci-rocketseat/commit/0497b3e4bd6329057bfc7af38e9720696a87ee24))
+
 # 1.0.0 (2025-05-10)
 
 
