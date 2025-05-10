@@ -68,7 +68,7 @@ jobs:
       with:
         service: rocketseat-api
         image: ${{ steps.build-docker-image.outputs.image }}
-        access-role-arn: ${{ AWS_APP_RUNNER_ROLE }}
+        access-role-arn: ${{ secrets.AWS_APP_RUNNER_ROLE }}
         region: ${{ secrets.AWS_REGION }}
         cpu: 1
         memory: 2
