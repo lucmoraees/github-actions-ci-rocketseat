@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/lucmoraees/github-actions-ci-rocketseat/compare/v1.0.2...v1.0.3) (2025-05-12)
+
+
+### Bug Fixes
+
+* fix add tag at docker image ([ab9dcb7](https://github.com/lucmoraees/github-actions-ci-rocketseat/commit/ab9dcb7461e2d701e6aa665b92e76b24ebfaa8be))
+
 ## [1.0.2](https://github.com/lucmoraees/github-actions-ci-rocketseat/compare/v1.0.1...v1.0.2) (2025-05-10)
 
 
